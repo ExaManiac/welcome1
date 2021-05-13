@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": ["609824441438044164"],
+        "ACTIVITY_TEXT": "exa",
+        "GUILD_ID": "798582103901339668",
+        "VOICE_CHANNEL": "831974330622541871",
+        "MIN_STAFF_ROLE": "831974044693168132"
+    },
+    "FILES": {
+        "WELCOME": "./hosgeldin.mp3",
+        "STAFF": "./yetkili.mp3"
+    },
+    "TOKEN": "ODQyMzkxODgxNjU1OTEwNDEw.YJ0okw.OL9heRKXLLHWkcjy0zRA__i9MMc"
+}

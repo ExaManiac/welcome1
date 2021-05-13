@@ -1,0 +1,21 @@
+{
+  "name": "discord-voucher-bot",
+  "version": "0.0.1",
+  "description": "A simple Discord voucher bot.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "opusscript": "0.0.7"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.17.0"
+  }
+}
